@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285380166282'] 
+global.owner = ['6283862006229'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6285380166282']
+global.kontak = ['6283862006229']
 
 //  INFO BOT 
-global.naown = 'KAHFI MAKER'
-global.noown = '6285380166282'
-global.namebot = 'Yt Maxxy Botz'
-global.nobot = '6285295374964'
+global.naown = 'Shiro Store'
+global.noown = '6283862006229'
+global.namebot = 'Filo BOT'
+global.nobot = '6285811440445'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/kahfiofc0'
-global.github = 'https://github.com/Frezzy-XD'
-global.gc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
-global.web = 'https://lynk.id/kahfi.xd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.instagram = 'https://instagram.com/shiro_nomercy'
+global.github = 'https://github.com/Xavieroffcial'
+global.gc = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
+global.web = 'https://instagram.com/shiro_nomercy' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = 'https://saweria.co/MaxxyBotz'
 
 // PAYMANT 
-global.dana = '085380166282'
-global.pulsa = '085295374964'
-global.gopay = ''
-global.shopay = ''
-global.ovo = ''
+global.dana = '085962734007'
+global.pulsa = '083862006229'
+global.gopay = '083862006229'
+global.shopay = '085962734007'
+global.ovo = '083862006229'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
